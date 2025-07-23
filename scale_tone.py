@@ -1,4 +1,4 @@
-# scale_generator.py
+# scale_generator
 
 SCALES = {
     "major":      [2, 2, 1, 2, 2, 2, 1],
