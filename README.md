@@ -3,5 +3,7 @@
 examples:
 
 python scale_tone.py C major
-  or
+  #or
 python scale_tone.py A# minor
+
+
